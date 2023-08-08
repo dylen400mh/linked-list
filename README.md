@@ -14,7 +14,7 @@ The Node factory contains two properties:
 
 ## LinkedList Factory
 
-The LinkedList class/factory represents the linked list and provides various functions for manipulation:
+The LinkedList factory represents the linked list and provides various functions for manipulation:
 
 - `append(value)`: Adds a new node containing `value` to the end of the list.
 - `prepend(value)`: Adds a new node containing `value` to the start of the list.
