@@ -1,6 +1,6 @@
 # Linked List Implementation in JavaScript
 
-This repository contains a simple implementation of a linked list in JavaScript. The linked list consists of two main classes/factories:
+This repository contains a simple implementation of a linked list in JavaScript. The linked list consists of two main factories:
 
 1. **LinkedList**: Represents the entire linked list.
 2. **Node**: Represents individual nodes in the linked list.
